@@ -1,0 +1,5 @@
+.idea
+.env
+.htaccess
+vendor/
+public/.htaccess
